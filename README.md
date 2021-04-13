@@ -1,2 +1,2 @@
 # smarthome
-A house or home which is connect will IoT devices
+A house or home which is connect with IoT devices
